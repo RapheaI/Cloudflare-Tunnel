@@ -16,7 +16,6 @@
 
 ### 一键安装
 ```bash
-# 🌸 使用椿卷ฅ的标准语法
 bash <(curl -s https://raw.githubusercontent.com/RapheaI/Cloudflare-Tunnel/main/cf-connector-installer.sh)
 ```
 
